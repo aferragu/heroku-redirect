@@ -1,14 +1,4 @@
 {
   "name": "Heroku Redirect",
-  "repository": "https://github.com/aferragu/heroku-redirect",
-  "env": {
-    "NEW_BASE_URL": {
-      "description": "Redirect all requests to this URL.",
-      "value": "https://covid-monitor.agesic.gub.uy"
-    },
-    "REDIRECT_STATUS": {
-      "description": "Redirect with this HTTP status code.",
-      "value": "302"
-    }
-  }
+  "repository": "https://github.com/aferragu/heroku-redirect"
 }
